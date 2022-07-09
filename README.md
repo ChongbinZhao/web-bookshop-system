@@ -1,6 +1,6 @@
-#### 演示效果
+## 演示效果
 
-##### 1.商家界面
+### 1.商家界面
 
 - **商家登陆界面**
 
@@ -32,7 +32,7 @@
 
 
 
-##### 2.顾客界面 
+### 2.顾客界面 
 
 - **顾客登录**
 
@@ -54,9 +54,9 @@
 
 
 
-#### 系统实现
+## 系统实现
 
-##### 1.技术栈  
+### 1.技术栈  
 
 编程语言：Python
 
@@ -70,7 +70,7 @@ Web框架：Django
 
 
 
-##### 2.复现流程
+### 2.复现流程
 
 - 先确保已经启动MySQL服务，并进入`Web_bookshop_system/library_bms/bms/setting.py`中，将PASSWORD修改为你的MySQL登陆密码![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/11.png)
 
