@@ -22,7 +22,7 @@ from app01 import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^$', views.publisher_list),
-    url(r'^pub_list/', views.publisher_list),      # 出版社列表
+    url(r'^pub_list/', views.login),      # 出版社列表
     url(r'^add_pub/', views.add_publisher),     # 新增出版社
     url(r'^edit_pub/', views.edit_publisher),     # 编辑出版社
     url(r'^drop_pub/', views.drop_publisher),     # 删除出版社
