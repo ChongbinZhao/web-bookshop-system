@@ -82,4 +82,4 @@ Web框架：Django
 
   <img src="https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/12.png" alt="img" style="zoom:67%;" />
 
-- 最后在终端进入路径`Web_bookshop_system/library_bms`，运行`python manage.py runserver 127.0.0.1:8000`，接着就可以登录网上购书商务系统进行一系列操作了
+- 最后在终端进入路径`Web_bookshop_system/library_bms`，运行`python manage.py runserver 127.0.0.1:8000`，接着任意选择一个浏览器并输入`127.0.0.1:8000`就可以进入登录界面了
