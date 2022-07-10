@@ -62,7 +62,7 @@
 
 Web框架：Django
 
-前端实现：HTML+CSS+js（借鉴的是网上的模板）
+前端实现：Boostrap框架（借鉴的是网上的模板）
 
 数据库：MySQL
 
@@ -72,7 +72,7 @@ Web框架：Django
 
 ### 2.复现流程
 
-- 先确保已经启动MySQL服务，并进入`Web_bookshop_system/library_bms/bms/setting.py`中，将PASSWORD修改为你的MySQL登陆密码![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/11.png)
+- 先确保已经启动MySQL服务和创建数据库`bms`，并进入`Web_bookshop_system/library_bms/bms/setting.py`中，将PASSWORD修改为你的MySQL登陆密码![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/11.png)
 
 - 在命令行中输入代码创建Django内置表结构：`python manage.py migrate` 
 
