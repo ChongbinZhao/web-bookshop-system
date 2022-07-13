@@ -82,4 +82,43 @@ Web框架：Django
 
   <img src="https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/12.png" alt="img" style="zoom:67%;" />
 
-- 最后在终端进入路径`Web_bookshop_system/library_bms`，运行`python manage.py runserver 127.0.0.1:8000`，接着任意选择一个浏览器并输入`127.0.0.1:8000`就可以进入登录界面了
+- 最后在终端进入路径`Web_bookshop_system/library_bms`，运行`python manage.py runserver 127.0.0.1:8000`，接着任意选择一个浏览器并输入`127.0.0.1:8000`就可以进入登录界面
+
+
+
+
+
+### 3.数据表
+
+数据表存储的内容要与`商家界面`和`顾客界面`所显示的保持一致，例如
+
+- **书籍信息**
+
+![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/13.png)
+
+
+
+- **订单信息**
+
+![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/14.png)
+
+
+
+- **出版社信息**
+
+![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/15.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
