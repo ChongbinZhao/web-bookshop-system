@@ -5,7 +5,9 @@
 - 此项目名为网上购书商务系统，用来模拟实际生活中的图书网购场景，使用者分为商家和顾客两个群体
 - 项目整体是基于 `Python+Django` 的`Web`框架，后端存储数据库使用的是`MySQL`，前端网页设计使用的是 `Bootstrap` 框架（借鉴的是网上的模板），数据库可视化工具可以使用`Navicat`   
 
-  
+  <br>
+
+
 
 ### 2.功能划分
 
@@ -18,8 +20,6 @@
 - 商家可以实时查看顾客的订单信息，但没有权限修改； 
 - 商家页面内提供检索功能，商家输入关键字可迅速检索带有该关键字的 记录。
 
-  
-
 **顾客层面：**
 
 - 顾客可以在网页进行注册和登录； 
@@ -28,7 +28,7 @@
 - 顾客可以修改已创建订单的信息； 
 - 顾客页面内提供检索功能，顾客输入关键字可迅速检索带有该关键字的记录。
 
-
+  <br>
 
   
 
@@ -66,7 +66,7 @@
 
 <img src="https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/22.png" alt="img" style="zoom: 80%;" />
 
-
+  <br>
 
   
 
@@ -86,7 +86,7 @@
 
 - 最后在终端进入路径`Web_bookshop_system/library_bms`，运行`python manage.py runserver 127.0.0.1:8000`，接着任意选择一个浏览器并输入`127.0.0.1:8000`就可以进入登录界面
 
-
+  <br>
 
   
 
@@ -110,7 +110,7 @@
 
 ![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/15.png)
 
-
+  <br>
 
 
 
@@ -150,7 +150,7 @@
 
 ![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/5.png)
 
-  
+​    <br>
 
 ### 2.顾客视角
 
@@ -170,4 +170,4 @@
 
 ![img](https://raw.githubusercontent.com/ChongbinZhao/Web_bookshop_system/master/src/8.png)
 
-  
+  <br>
