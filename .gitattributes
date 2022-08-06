@@ -1,2 +1,2 @@
-*.html linguist-language=Python
+*.cs linguist-language=Python
 *.ico linguist-language=Python
